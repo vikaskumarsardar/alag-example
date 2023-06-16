@@ -23,7 +23,7 @@ function App() {
                 >
                   Learn React
                 </a>
-                <Link to="/home">Click to Home</Link>
+                {/* <Link to="/home">Click to Home</Link> */}
               </header>
             </div>
           }
